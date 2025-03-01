@@ -111,3 +111,4 @@ This PoC is for educational and experimental purposes only.
 ---
 
 🔗 **Developed for academic demonstration of Neural Networks (Classification Algorithm).** 🚀
+By Mike Niner Bravog
